@@ -1,0 +1,32 @@
+{
+  "clients": [
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@dev.com",
+      "empresa": "Dev"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@dev.com",
+      "empresa": "Dev"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@dev.com",
+      "empresa": "Dev"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@dev.com",
+      "empresa": "Dev"
+    }
+  ]
+}
